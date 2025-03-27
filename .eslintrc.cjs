@@ -18,5 +18,6 @@ module.exports = {
     ],
     // Add this rule to disable unused variable errors
     "no-unused-vars": "off",
+    "react/prop-types": "off",
   },
 };
